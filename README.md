@@ -1,6 +1,6 @@
 Resume.app
 ==========
 
-About me 1
+About me
 
-b2
+b2 b2-1
